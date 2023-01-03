@@ -1,3 +1,22 @@
+# Teste IPAM, Augusto Sérgio Pimenta Ramos
+Esse é o meu teste para a empresa IPAM.
+
+# Tecnologias utilizadas
+
+Aqui estão as tecnologias utilizadas neste projeto.
+
+* React 17.0.2
+* Redux 4.2.0
+* MUI Material
+
+# Considerações sobre o projeto
+
+Primeiramente gostaria de agradecer a oportunidade de estar realizando este teste.
+Fiquei muito feliz de poder realizar ele, pois agregou muito para o meu aprendizado, principalmente na utilização do Redux.
+Uma dificuldade que eu tive foi que na configuração e utilização do Redux pois ele é muito mais verboso que o useState.
+Mas no geral o teste foi bastante proveitoso, pois serviu de aprendizado e de estudo.
+Obrigado.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
